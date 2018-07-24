@@ -12,7 +12,7 @@ As for the continental placement of countries in this repo, I did not visit thes
 
 Out of a personal interest, I extended the collection to territories / regions / states of:
 
-[Brazil](https://en.wikipedia.org/wiki/ISO_3166-2:BR) & [Spain](https://en.wikipedia.org/wiki/ISO_3166-2:ES).
+[Brazil](https://en.wikipedia.org/wiki/ISO_3166-2:BR), [Spain](https://en.wikipedia.org/wiki/ISO_3166-2:ES) & [USA](https://en.wikipedia.org/wiki/Flags_of_the_U.S._states_and_territories).
 
 ## Important note!
 
