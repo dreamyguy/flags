@@ -1,4 +1,4 @@
-| Africa | FLAG |
+| FLAG | Africa |
 | :----: | ------ |
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/africa/Flag_of_Algeria.svg?sanitize=true" alt="Algeria" height="20px"> | Algeria |
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/africa/Flag_of_Angola.svg?sanitize=true" alt="Angola" height="20px"> | Angola |
@@ -65,7 +65,7 @@
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/africa/Flag_of_Zambia.svg?sanitize=true" alt="Zambia" height="20px"> | Zambia |
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/africa/Flag_of_Zimbabwe.svg?sanitize=true" alt="Zimbabwe" height="20px"> | Zimbabwe |
 
-| America - Central | FLAG |
+| FLAG | America - Central |
 | :----: | ------ |
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/america-central/Flag_of_Belize.svg?sanitize=true" alt="Belize" height="20px"> | Belize |
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/america-central/Flag_of_Costa_Rica.svg?sanitize=true" alt="Costa Rica" height="20px"> | Costa Rica |
@@ -75,7 +75,7 @@
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/america-central/Flag_of_Nicaragua.svg?sanitize=true" alt="Nicaragua" height="20px"> | Nicaragua |
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/america-central/Flag_of_Panama.svg?sanitize=true" alt="Panama" height="20px"> | Panama |
 
-| America - North | FLAG |
+| FLAG | America - North |
 | :----: | ------ |
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/america-north/Flag_of_Anguilla.svg?sanitize=true" alt="Anguilla" height="20px"> | Anguilla |
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/america-north/Flag_of_Antigua_and_Barbuda.svg?sanitize=true" alt="Antigua and Barbuda" height="20px"> | Antigua and Barbuda |
@@ -116,7 +116,7 @@
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/america-north/Flag_of_the_United_States.svg?sanitize=true" alt="The United States" height="20px"> | The United States |
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/america-north/Flag_of_Trinidad_and_Tobago.svg?sanitize=true" alt="Trinidad and Tobago" height="20px"> | Trinidad and Tobago |
 
-| America - South | FLAG |
+| FLAG | America - South |
 | :----: | ------ |
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/america-south/Flag_of_Argentina.svg?sanitize=true" alt="Argentina" height="20px"> | Argentina |
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/america-south/Flag_of_Bolivia.svg?sanitize=true" alt="Bolivia" height="20px"> | Bolivia |
@@ -134,7 +134,7 @@
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/america-south/Flag_of_Uruguay.svg?sanitize=true" alt="Uruguay" height="20px"> | Uruguay |
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/america-south/Flag_of_Venezuela.svg?sanitize=true" alt="Venezuela" height="20px"> | Venezuela |
 
-| Asia | FLAG |
+| FLAG | Asia |
 | :----: | ------ |
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/asia/Flag_of_Afghanistan.svg?sanitize=true" alt="Afghanistan" height="20px"> | Afghanistan |
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/asia/Flag_of_Bahrain.svg?sanitize=true" alt="Bahrain" height="20px"> | Bahrain |
@@ -184,7 +184,7 @@
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/asia/Flag_of_Vietnam.svg?sanitize=true" alt="Vietnam" height="20px"> | Vietnam |
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/asia/Flag_of_Yemen.svg?sanitize=true" alt="Yemen" height="20px"> | Yemen |
 
-| Europe | FLAG |
+| FLAG | Europe |
 | :----: | ------ |
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/europe/Flag_of_Aland.svg?sanitize=true" alt="Aland" height="20px"> | Aland |
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/europe/Flag_of_Albania.svg?sanitize=true" alt="Albania" height="20px"> | Albania |
@@ -256,7 +256,7 @@
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/europe/Flag_of_Ukraine.svg?sanitize=true" alt="Ukraine" height="20px"> | Ukraine |
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/europe/Flag_of_Wales.svg?sanitize=true" alt="Wales" height="20px"> | Wales |
 
-| Oceania | FLAG |
+| FLAG | Oceania |
 | :----: | ------ |
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/oceania/Flag_of_American_Samoa.svg?sanitize=true" alt="American Samoa" height="20px"> | American Samoa |
 | <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/oceania/Flag_of_Australia.svg?sanitize=true" alt="Australia" height="20px"> | Australia |

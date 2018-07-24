@@ -1,4 +1,4 @@
-| Country Name | FLAG | Continent |
+| FLAG | Country Name | Continent |
 | :----: | ------ | ------ |
 | <!-- Afghanistan --><img src="https://raw.githubusercontent.com/dreamyguy/flags/master/asia/Flag_of_Afghanistan.svg?sanitize=true" alt="Afghanistan" height="20px"> | Afghanistan | Asia |
 | <!-- Aland --><img src="https://raw.githubusercontent.com/dreamyguy/flags/master/europe/Flag_of_Aland.svg?sanitize=true" alt="Aland" height="20px"> | Aland | Europe |
