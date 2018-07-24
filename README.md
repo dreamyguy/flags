@@ -22,6 +22,8 @@ I _understand_ that flags are political in nature, but I have no political agend
 * Flags do change often, but I won't be making a conscious effort to keep this repository updated.
 * I have no intention to entice conflict _with anyone_. **PEACE!** :sparkles:
 
+Here's an overview of territories and their flags, some of them disputed, by [Wikipedia itself](https://commons.wikimedia.org/wiki/Dependent_territory_flags).
+
 ### Futher notes
 
 #### On symbols
