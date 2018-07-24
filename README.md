@@ -10,6 +10,10 @@ For continents, I used the following links:
 
 As for the continental placement of countries in this repo, I did not visit these links in any particular order. I observed however that North and Central Americas, as well as Asia and Europe listed some countries in both lists. As I did not want to duplicate countries, some countries ended up listed in the continent I started with...
 
+Out of a personal interest, I extended the collection to territories / regions / states of:
+
+[Brazil](https://en.wikipedia.org/wiki/ISO_3166-2:BR) & [Spain](https://en.wikipedia.org/wiki/ISO_3166-2:ES).
+
 ## Important note!
 
 I _understand_ that flags are political in nature, but I have no political agenda. Bear in mind that:
