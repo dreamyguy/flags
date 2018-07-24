@@ -1,4 +1,4 @@
-| FLAG | **Brazil** (Coat of Arms) |
+| ARMS | **Brazil** |
 | :----: | ------ |
 <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/_special-interest/brazil/Coat_of_arms_of_Acre.svg?sanitize=true" alt="Acre" height="30px"> | Acre |
 <img src="https://raw.githubusercontent.com/dreamyguy/flags/master/_special-interest/brazil/Coat_of_arms_of_Alagoas.svg?sanitize=true" alt="Alagoas" height="30px"> | Alagoas |
