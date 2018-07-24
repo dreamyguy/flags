@@ -1,0 +1,21 @@
+{
+  "name": "flags",
+  "version": "0.1.0",
+  "description": "Flags from all countries as they are listed on Wikipedia.",
+  "keywords": [
+    "flags",
+    "countries"
+  ],
+  "homepage": "https://github.com/dreamyguy/flags",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dreamyguy/flags"
+  },
+  "author": {
+    "name": "Wallace Sidhrée",
+    "email": "i@dreamyguy.com",
+    "url": "http://sidhree.com/"
+  },
+  "copyright": "Copyright (c) Wallace Sidhrée - All rights reserved.",
+  "license": "MIT"
+}
